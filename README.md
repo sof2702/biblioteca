@@ -411,6 +411,7 @@ python manage.py recomendar_por_genero Programación
 ```
 
 Resultado esperado:
+
 ![Image](https://github.com/user-attachments/assets/fb7e583c-87b1-4cc7-b60c-a4d1b8749dda)
 
 Si no se encuentra el género, se muestra un mensaje de error:
